@@ -20,3 +20,13 @@ Es la confirmacion de un cambio.
 git add
 ```
 
+¿Qué comando utilizo para agregar archivos preparados al
+repositorio?
+
+```
+git commit
+```
+
+¿Cuál es el nombre por defecto de la rama principal de mi proyecto?
+
+Es main o master.
