@@ -63,3 +63,13 @@ git push
 ```
 git reset jass del commit anterior
 ```
+12. Comando para cambiarse de rama
+
+```
+git chekout jass del commit al que me quiero cambiar
+```
+13. Comando para ver un listado de las ramas que existen
+
+```
+git brach
+```
